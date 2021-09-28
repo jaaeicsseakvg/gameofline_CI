@@ -1,0 +1,9 @@
+./test123.sh Multi_script INITIAL C:/test2/pipeline_yamls/deploy_pipelines.config ALL
+
+./test123.sh Multi_script INITIAL C:/test2/pipeline_yamls/deploy_pipelines.config ELASTICSEARCH
+
+./test123.sh Multi_script INITIAL C:/test2/pipeline_yamls/deploy_pipelines.config MIDDLEWARE
+
+
+./test123.sh Multi_script INITIAL C:/test2/pipeline_yamls/deploy_pipelines.config PIPELINE
+
